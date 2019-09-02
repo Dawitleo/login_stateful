@@ -13,6 +13,5 @@ class ValidationMixin{
       return 'Password must be at least 4 characters';
     }
     return null;
-  }
-  
+  }  
 }
